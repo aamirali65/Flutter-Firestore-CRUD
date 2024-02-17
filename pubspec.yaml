@@ -38,9 +38,11 @@ dependencies:
   firebase_core:
   firebase_auth:
   firebase_storage:
-  cloud_firestore:
+  cloud_firestore: ^4.15.4
   fluttertoast:
   firebase_database: ^10.4.5
+  awesome_dialog: ^3.2.0
+  lottie: ^3.0.0
 
 dev_dependencies:
   flutter_test:
